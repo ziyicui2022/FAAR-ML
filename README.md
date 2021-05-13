@@ -38,7 +38,7 @@ Transformer中multi-head允许不同的头学习输入的不同的隐藏层表�
 
 ### 其他调参
 
-我们对bp_cutoff、        参数进行了调整，以得到预测效果最好的数值。
+我们对bp_cutoff等 参数进行了调整，以得到预测效果最好的数值。
 
 ### 思路架构图
 ![](https://ai-studio-static-online.cdn.bcebos.com/07b23feab73544f3a8e10b3a86a47841910212f2da334dedb7e73bcf8f8552d6)
